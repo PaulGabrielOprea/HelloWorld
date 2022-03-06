@@ -14,6 +14,8 @@ public class Hello {
 		
 		System.out.println("suma este " + suma(5,7));
 		
+		System.out.println("Mesaj branch master");
+
 	}
 
 }
