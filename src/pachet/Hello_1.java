@@ -1,6 +1,6 @@
 package pachet;
 
-public class Hello {
+public class Hello_1 {
 	
 	static int suma(int a, int b){
 		return a+b;
